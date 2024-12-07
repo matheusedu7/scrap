@@ -9,7 +9,7 @@ Este projeto realiza o scraping de dados do site [Hacker News](https://news.ycom
   - Utiliza `cheerio` para manipular e extrair dados do HTML.
 - **Envio de E-mails**:
   - Envia os dados coletados diretamente para um destinatário configurado via e-mail.
-  - Usa `nodemailer` para integrar com o servidor SMTP do Hotmail/Outlook.
+  - Usa `nodemailer` para integrar com o servidor SMTP do Gmail.
 - **Configuração Personalizável**:
   - URL do site, credenciais de e-mail e destinatário são configurados via `.env`.
 
