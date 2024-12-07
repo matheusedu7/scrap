@@ -1,0 +1,21 @@
+# Ignorar arquivos de configuração de ambiente
+.env
+
+# Ignorar diretório de módulos do Node.js
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar cache do sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios criados pelo editor/IDE
+.vscode/
+.idea/
